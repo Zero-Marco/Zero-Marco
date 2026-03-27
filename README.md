@@ -17,4 +17,4 @@ I am a Software Engineer leveraging 10+ years in IT Infrastructure and Logistics
 
 ### 📫 Let's Connect
 * **Email:** Marcomina1818@gmail.com
-* **LinkedIn:** [Marco Mina](linkedin.com/in/marco-mina-794b11166)
+* **LinkedIn:** [Marco Mina](https://linkedin.com/in/marco-mina-794b11166)
