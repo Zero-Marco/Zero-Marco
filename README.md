@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Marco 👋
+## Android Developer | Kotlin & Offline-First Architecture
 
-<!--
-**Zero-Marco/Zero-Marco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer leveraging 10+ years in IT Infrastructure and Logistics to build robust, offline-first business applications. I specialize in turning complex, real-world operational bottlenecks into clean, scalable software for both Mobile and Desktop.
 
-Here are some ideas to get you started:
+### 🚀 Featured Application: Heavy Equipment Pulse
+**[Available Now on the Google Play Store](https://play.google.com/store/apps/details?id=com.marco.heavyequipmentpulse&pcampaignid=web_share)**
+*A production-level B2B enterprise Android application designed for managing heavy equipment fleets, offline maintenance logging, and local financial tracking.*
+* **Architecture:** Kotlin, MVVM, Clean Architecture
+* **Data Management:** Room Database (Offline-First), SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Tech Stack
+* **Languages:** Kotlin, Java
+* **Mobile & Desktop:** Android SDK, Compose for Desktop
+* **Networking & Data:** Retrofit, REST APIs, Room
+* **Tools:** Android Studio, Git, Google Play Console
+
+### 📫 Let's Connect
+* **Email:** Marcomina1818@gmail.com
+* **LinkedIn:** [Marco Mina](linkedin.com/in/marco-mina-794b11166)
