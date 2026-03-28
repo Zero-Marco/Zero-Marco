@@ -11,7 +11,7 @@ I am a Software Engineer leveraging 10+ years in IT Infrastructure and Logistics
 
 ### 🛠️ Core Tech Stack
 * **Languages:** Kotlin, Java
-* **Mobile & Desktop:** Android SDK, Compose for Desktop
+* **Mobile :** Android SDK
 * **Networking & Data:** Retrofit, REST APIs, Room
 * **Tools:** Android Studio, Git, Google Play Console
 
